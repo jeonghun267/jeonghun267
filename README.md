@@ -1,112 +1,74 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · jeonghun267</sub></p>
-<h1>jeonghun</h1>
-<h2>Unity · AI 인터랙티브 개발자</h2>
-<p>Meta Quest VR 콘텐츠와 Unreal 미디어아트부터 Gemini를 붙인 웹·앱 서비스까지,<br />직접 만들고 끝까지 다듬어 공개합니다.</p>
-<p><strong>● 한국폴리텍대학교 컴퓨터공학과</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:38BDF8&height=230&section=header&text=jeonghun&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Unity%20%C2%B7%20AI%20Interactive%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="jeonghun · Unity · AI Interactive Developer" />
 
-<p><a href="https://jeonghun267.github.io">포트폴리오</a> · <a href="https://github.com/jeonghun267">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/205953723?u=c86d99fc592cc56963f38ceab314bbaf7dcc82fa&amp;v=4" width="180" alt="jeonghun GitHub avatar" />
-</td>
-</tr>
-</table>
+<a href="https://jeonghun267.github.io"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=2800&pause=900&color=1A56DB&center=true&vCenter=true&width=640&lines=Meta+Quest+VR+%EC%BD%98%ED%85%90%EC%B8%A0%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%9A%94;Unreal%EB%A1%9C+%EB%AF%B8%EB%94%94%EC%96%B4%EC%95%84%ED%8A%B8%EB%A5%BC+%EC%97%B0%EC%B6%9C%ED%95%B4%EC%9A%94;Gemini%EB%A5%BC+%EB%B6%99%EC%9D%B8+%EC%9B%B9%C2%B7%EC%95%B1%EC%9D%84+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%9A%94;%EA%B0%9C%EB%B0%9C%EC%9D%84+%EB%8F%95%EB%8A%94+%EB%8F%84%EA%B5%AC%EB%8F%84+%EC%A7%81%EC%A0%91+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%9A%94" alt="Meta Quest VR 콘텐츠, Unreal 미디어아트, Gemini를 붙인 웹·앱, 개발 도구를 만들어요" /></a>
+
+<p>
+<a href="https://jeonghun267.github.io"><img src="https://img.shields.io/badge/Portfolio-jeonghun267.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%ED%8F%B4%EB%A6%AC%ED%85%8D%EB%8C%80%ED%95%99%EA%B5%90-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99%EA%B3%BC-0B1E3F?style=for-the-badge" alt="한국폴리텍대학교 컴퓨터공학과" />
+</p>
+
 </div>
 
-<h2>한눈에 보는 저</h2>
+## 👋 About Me
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>역할</h3><p>Unity · AI 인터랙티브 개발자 · C# · TypeScript · Python</p></td>
-<td width="33%" valign="top"><h3>주로 만드는 것</h3><p>VR·실감 콘텐츠 · AI를 붙인 웹/앱 서비스 · 개발 도구</p></td>
-<td width="33%" valign="top"><h3>다뤄 본 환경</h3><p>Unity 6 · Unreal Engine 5 · Meta Quest · Next.js · Flutter · .NET</p></td>
-</tr>
-</table>
+- 🥽 **VR·실감 콘텐츠** — Unity 6와 Meta Quest로 몸으로 배우는 교육 콘텐츠를 만들어요
+- 🌕 **미디어아트** — Unreal Engine 5의 Niagara·Sequencer로 전시 연출을 짜요
+- 🤖 **AI 서비스** — Gemini API를 붙인 웹·앱을 기획부터 배포까지 만들어요
+- 🛠 **개발 도구** — Unity 프로젝트 분석기처럼 작업을 편하게 해 주는 도구를 직접 만들어요
 
-<p><sub>엔진과 AI를 엮어, 직접 써 보고 싶은 경험을 만듭니다.</sub></p>
+## 🛠 Tech Stack
 
-<h2>활동 요약</h2>
+<div align="center">
+
+<p><b>Engine · XR</b></p>
+<img src="https://skillicons.dev/icons?i=unity,unreal,cs,dotnet,blender,visualstudio&theme=dark" alt="Unity, Unreal Engine, C#, .NET, Blender, Visual Studio" />
+
+<p><b>Web · App</b></p>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,supabase,vercel,flutter,dart&theme=dark" alt="TypeScript, React, Next.js, Tailwind CSS, Supabase, Vercel, Flutter, Dart" />
+
+<p><b>AI · Tools</b></p>
+<img src="https://skillicons.dev/icons?i=py,git,github,vscode&theme=dark" alt="Python, Git, GitHub, VS Code" />
+<br /><br />
+<img src="https://img.shields.io/badge/Gemini_API-1A56DB?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/Whisper-0B1E3F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Whisper" />
+<img src="https://img.shields.io/badge/ML_Kit-38BDF8?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit" />
+
+</div>
+
+## 🚀 Projects
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="jeonghun GitHub proof metrics" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&repos=jeonghun267%2FHUMANBODY%2Cjeonghun267%2FSubSmart%2Cjeonghun267%2FUnityProjectAnalyzer%2Cjeonghun267%2FAI_Agent&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&repos=jeonghun267%2FHUMANBODY%2Cjeonghun267%2FSubSmart%2Cjeonghun267%2FUnityProjectAnalyzer%2Cjeonghun267%2FAI_Agent&v=recruiter-projects-1&mode=dark" width="100%" alt="대표 프로젝트: HUMANBODY, SubSmart, UnityProjectAnalyzer, ReLo" />
 </picture>
 </p>
 
-<h2>대표 작업</h2>
+| | 프로젝트 | 한 줄 소개 | 기술 |
+|:-:|---|---|---|
+| 🥽 | [HUMANBODY](https://github.com/jeonghun267/HUMANBODY) | AI × VR 인체 탐험관 — 보트를 타고 소화기관을 여행하는 Meta Quest 교육 콘텐츠 | Unity 6 · Meta XR |
+| 💳 | [SubSmart](https://github.com/jeonghun267/SubSmart) | 구독·가계부·예산을 한 앱에서, AI 소비 분석까지 · [데모](https://subsmart-silk.vercel.app) | Next.js · Supabase |
+| 🔍 | [UnityProjectAnalyzer](https://github.com/jeonghun267/UnityProjectAnalyzer) | .meta GUID 의존성 그래프로 미사용 에셋을 찾고 Gemini로 코드 리뷰 | C# · WPF |
+| 📦 | [ReLo](https://github.com/jeonghun267/AI_Agent) | 해외 직구 반품·교환·AS를 청구부터 환불 회수까지 기록하는 웹 서비스 | JavaScript · Gemini |
+| 🌕 | [빛의 대한민국](https://github.com/jeonghun267/LightOfKorea) | 달항아리·한옥·빛의 숲으로 꾸민 이머시브 미디어아트 오프닝 | Unreal 5.7 · Niagara |
+| 📝 | [X BIT](https://github.com/jeonghun267/XBit-Project) | Git을 몰라도 원클릭으로 과제를 제출하는 학생용 협업 툴 | C# · WinForms |
+| 👶 | [아기일기](https://github.com/jeonghun267/auto_baby_diary) | 아이 표정과 음성 메모로 AI가 써 주는 육아일기 앱 | Flutter · Gemini |
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&repos=jeonghun267%2FHUMANBODY%2Cjeonghun267%2FSubSmart%2Cjeonghun267%2FUnityProjectAnalyzer%2Cjeonghun267%2FAI_Agent&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&repos=jeonghun267%2FHUMANBODY%2Cjeonghun267%2FSubSmart%2Cjeonghun267%2FUnityProjectAnalyzer%2Cjeonghun267%2FAI_Agent&v=recruiter-projects-1&mode=dark" width="100%" alt="jeonghun selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/jeonghun267/HUMANBODY">HUMANBODY</a></h3>
-<p>AI × VR 인체 탐험관. 병아리 의사 NPC의 안내를 받으며 보트를 타고 식도 → 위 → 소장 → 대장을 여행하는 Meta Quest 교육 콘텐츠입니다.</p>
-<p><sub>Unity 6 · URP · Meta XR SDK · C#</sub></p>
-<p><a href="https://github.com/jeonghun267/HUMANBODY">저장소 보기 →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/jeonghun267/SubSmart">SubSmart</a></h3><p>구독료·가계부·예산·저축 목표를 한 앱에서 관리하고, AI가 소비 패턴을 분석해 주는 앱인토스용 서비스.</p><p><sub>Next.js · TypeScript · Supabase · <a href="https://subsmart-silk.vercel.app">데모</a></sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/jeonghun267/UnityProjectAnalyzer">UnityProjectAnalyzer</a></h3><p>Unity 프로젝트를 스캔해 .meta GUID 의존성 그래프로 미사용 에셋을 찾고, Gemini로 코드 리뷰까지 하는 데스크톱 도구.</p><p><sub>C# · .NET 8 · WPF · Gemini API</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/jeonghun267/AI_Agent">ReLo</a></h3><p>해외 직구 반품·교환·AS를 청구부터 실제 환불 회수까지 한곳에 기록하는 웹 서비스. 주문서로 AI 자동 채우기 지원.</p><p><sub>JavaScript · Gemini API</sub></p></td>
-</tr>
-</table>
-
-<h2>그 밖의 작업</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/jeonghun267/LightOfKorea">빛의 대한민국</a></h3><p>달항아리·한옥·빛의 숲으로 꾸민 한국형 이머시브 미디어아트 전시의 60초 오프닝 프로토타입.</p><p><sub>Unreal Engine 5.7 · Niagara · Sequencer · Python</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/jeonghun267/XBit-Project">X BIT</a></h3><p>Git을 몰라도 원클릭 커밋·푸시로 과제를 제출하고 팀 작업을 관리하는 학생용 협업 툴.</p><p><sub>C# · WinForms · SQLite · LibGit2Sharp</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/jeonghun267/auto_baby_diary">아기일기</a></h3><p>사진 속 아이 표정과 부모의 음성 메모를 모아 AI가 육아일기를 써 주는 앱.</p><p><sub>Flutter · Supabase · ML Kit · Whisper · Gemini</sub></p></td>
-</tr>
-</table>
-
-<h2>기술 스택</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center"><strong>Unity · C#</strong><br /><sub>VR · Meta Quest · URP</sub></td>
-<td width="33%" align="center"><strong>Unreal Engine 5</strong><br /><sub>Niagara · Sequencer · Python 자동화</sub></td>
-<td width="33%" align="center"><strong>.NET 데스크톱</strong><br /><sub>WPF · WinForms</sub></td>
-</tr>
-<tr>
-<td width="33%" align="center"><strong>TypeScript · Next.js</strong><br /><sub>Supabase · Vercel</sub></td>
-<td width="33%" align="center"><strong>Flutter · Dart</strong><br /><sub>모바일 앱 · Riverpod</sub></td>
-<td width="33%" align="center"><strong>AI API</strong><br /><sub>Gemini · Whisper · ML Kit</sub></td>
-</tr>
-</table>
-
-<h2>꾸준함</h2>
+## 📈 Activity
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="jeonghun contribution activity" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=jeonghun267&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F205953723%3Fu%3Dc86d99fc592cc56963f38ceab314bbaf7dcc82fa%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="jeonghun 기여 활동" />
 </picture>
 </p>
 
-<hr />
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>다음 작업을 함께 이야기해요</h2><p>VR·실감 콘텐츠나 AI를 붙인 서비스를 만드는 팀이라면 반갑습니다.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://jeonghun267.github.io">포트폴리오</a> · <a href="https://github.com/jeonghun267">GitHub</a></td>
-</tr>
-</table>
+<a href="https://jeonghun267.github.io">포트폴리오</a>에서 더 많은 작업을 볼 수 있어요.
 
-<p align="center"><sub>jeonghun · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:1E3A8A&height=120&section=footer" width="100%" alt="" />
+
+</div>
